@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 767px)" srcset="./assets/anime.webp" width="100%">
+    <source media="(max-width: 767px)" srcset="./assets/assets/71428376_p0_master1200.webp" width="100%">
     <img src="./assets/anime.webp" alt="anime" width="48%" align="top">
   </picture>
   <picture>
@@ -38,7 +38,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-0a0812?style=flat-square&logo=css3&logoColor=c9b1ff)
 ![React](https://img.shields.io/badge/React-0a0812?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0a0812?style=flat-square&logo=nodedotjs&logoColor=ffb7c5)
-![Electron](https://img.shields.io/badge/Electron-0a0812?style=flat-square&logo=electron&logoColor=c9b1ff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0812?style=flat-square&logo=postgresql&logoColor=c9b1ff)
 ![MySQL](https://img.shields.io/badge/MySQL-0a0812?style=flat-square&logo=mysql&logoColor=ffb7c5)
 ![Git](https://img.shields.io/badge/Git-0a0812?style=flat-square&logo=git&logoColor=F05032)
@@ -80,22 +79,11 @@
 [![](https://img.shields.io/badge/Email-0a0812?style=flat-square&logo=gmail&logoColor=c9b1ff)](mailto:doanhoang.4work@gmail.com)
 [![](https://img.shields.io/badge/Facebook-0a0812?style=flat-square&logo=facebook&logoColor=ffb7c5)](https://fb.com/huwang212)
 [![](https://img.shields.io/badge/Instagram-0a0812?style=flat-square&logo=instagram&logoColor=c9b1ff)](https://instagram.com/hoa_ng1401)
-[![](https://img.shields.io/badge/YouTube-0a0812?style=flat-square&logo=youtube&logoColor=ffb7c5)](https://www.youtube.com/c/@doanhoangytb)
-[![](https://img.shields.io/badge/Discord-0a0812?style=flat-square&logo=discord&logoColor=c9b1ff)](https://discord.gg/binvip123)
+[![](https://img.shields.io/badge/YouTube-0a0812?style=flat-square&logo=youtube&logoColor=ffb7c5)](https://www.youtube.com/@doanhoangytb)
+[![](https://img.shields.io/badge/Discord-0a0812?style=flat-square&logo=discord&logoColor=c9b1ff)](https://discord.gg/NSRndXR8Gz)
 
 <br/>
 
 <sub><i>🌸 &nbsp;"5 cm/s — the falling speed of cherry blossom petals." &nbsp; 🌸</i></sub>
 
 </div>
-```
-
----
-
-## ✅ Checklist hoàn thành
-```
-□ Bước 2 — Tạo token + add secret METRICS_TOKEN
-□ Bước 3 — Tạo file metrics.yml → commit → Run workflow
-□ Bước 4 — Upload ảnh anime vào assets/anime.webp
-□ Bước 5 — Paste README.md → commit
-□ Xem kết quả tại github.com/ndhoang1401-ops
