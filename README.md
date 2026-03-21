@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 767px)" srcset="./assets/assets/71428376_p0_master1200.webp" width="100%">
-    <img src="./assets/anime.webp" alt="anime" width="48%" align="top">
+    <source media="(max-width: 767px)" srcset="./assets/71428376_p0_master1200.webp" width="100%">
+    <img src="./assets/71428376_p0_master1200.webp" alt="anime" width="48%" align="top">
   </picture>
   <picture>
     <source media="(max-width: 767px)" srcset="./github-metrics.svg" width="100%">
